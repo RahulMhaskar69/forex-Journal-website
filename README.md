@@ -1,1 +1,1 @@
-# my---forex---journal
+# Forex journqling website ( static)
