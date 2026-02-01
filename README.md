@@ -1,1 +1,1 @@
-# Forex journqling website ( static)
+# Forex journaling website ( static)
